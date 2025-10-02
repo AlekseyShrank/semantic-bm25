@@ -1,4 +1,4 @@
-```markdown
+
 # Project: Implementation of BM25 with Semantic Enhancement
 
 ## Description
@@ -87,4 +87,3 @@ MIT License (see the LICENSE file)
 
 ## Author
 Aleksei Shrank, September 2025
-```
